@@ -48,4 +48,7 @@
     "eslint-plugin-react": "^7.24.0",
     "prettier": "2.8.8"
   }
+  {
+    "extends": ["react-app"]
+  }
 }
